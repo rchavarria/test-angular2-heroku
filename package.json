@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Angular2 Application",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.11.1"
   },
   "license": "MIT",
   "angular-cli": {},
